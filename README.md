@@ -1,1 +1,1 @@
-Basic E-commerce application for a school project
+Basic E-commerce marketplace application for a school project.
