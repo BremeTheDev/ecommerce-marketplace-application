@@ -235,8 +235,8 @@ while True:
 
 
 
-    except Exception as e :
-        print(e)
+    except:
         print("\n-------------------")
         print("| Invalid choice! |")
         print("-------------------")
+        continue
